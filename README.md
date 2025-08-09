@@ -1,4 +1,3 @@
-# aulajovander8-8
 # Lista de Clientes (Azure SQL + PHP)
 
 ## Descrição
